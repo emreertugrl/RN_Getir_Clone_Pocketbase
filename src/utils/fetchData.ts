@@ -1,0 +1,26 @@
+export const categories = [
+  { id: "1", image: require("../../assets/getir/categories/1.png"), name: "İndirimler" },
+  { id: "2", image: require("../../assets/getir/categories/2.png"), name: "Su & İçecek" },
+  { id: "3", image: require("../../assets/getir/categories/3.png"), name: "Meyve & Sebze" },
+  { id: "4", image: require("../../assets/getir/categories/4.png"), name: "Unlu Mamüller" },
+  { id: "5", image: require("../../assets/getir/categories/5.png"), name: "Temel Gıda" },
+  { id: "6", image: require("../../assets/getir/categories/6.png"), name: "Atıştırmalık" },
+  { id: "7", image: require("../../assets/getir/categories/7.png"), name: "Dondurma" },
+  { id: "8", image: require("../../assets/getir/categories/8.png"), name: "Süt Ürünleri" },
+  { id: "9", image: require("../../assets/getir/categories/9.png"), name: "Kahvaltı" },
+  { id: "10", image: require("../../assets/getir/categories/10.png"), name: "Yiyecek" },
+  { id: "11", image: require("../../assets/getir/categories/11.png"), name: "Fit & Form" },
+  { id: "12", image: require("../../assets/getir/categories/12.png"), name: "KişiselBakım" },
+  { id: "13", image: require("../../assets/getir/categories/13.png"), name: "Evcil Hayvan" },
+  { id: "14", image: require("../../assets/getir/categories/14.png"), name: "Bebek" },
+  { id: "15", image: require("../../assets/getir/categories/15.png"), name: "Cinsel Sağlık" },
+  { id: "16", image: require("../../assets/getir/categories/16.png"), name: "Ev Bakım" },
+  { id: "17", image: require("../../assets/getir/categories/17.png"), name: "Teknoloji" },
+  { id: "18", image: require("../../assets/getir/categories/18.png"), name: "Ev & Yaşam" },
+];
+export const sliderImages = [
+  require("../../assets/getir/1.jpg"),
+  require("../../assets/getir/2.jpg"),
+  require("../../assets/getir/3.jpg"),
+  require("../../assets/getir/4.jpg"),
+];
